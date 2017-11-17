@@ -1,2 +1,2 @@
 # CleanCode
-Examples on writing professional Clean Code
+Repository for DEV275x Writing Professional Code course
